@@ -312,27 +312,27 @@ nav a {
 
 .story1 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(/assets/images/status-1.png);
+    url(../assets/images/status-1.png);
 }
 
 .story2 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(/assets/images/status-2.png);
+    url(../assets/images/status-2.png);
 }
 
 .story3 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(/assets/images/status-3.png);
+    url(../assets/images/status-3.png);
 }
 
 .story4 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(/assets/images/status-4.png);
+    url(../assets/images/status-4.png);
 }
 
 .story5 {
   background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.5)),
-    url(/assets/images/status-5.png);
+    url(../assets/images/status-5.png);
 }
 
 .story.story1 img {
