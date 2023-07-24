@@ -1,3 +1,5 @@
+@import "profile.css";
+
 * {
   margin: 0;
   padding: 0;
@@ -36,6 +38,10 @@ nav {
   z-index: 100;
 }
 
+nav a{
+  text-decoration: none;
+}
+
 .logo {
   width: 160px;
   margin-right: 45px;
@@ -70,6 +76,9 @@ nav {
 
 .nav-user-icon {
   margin-left: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .online {
