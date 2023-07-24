@@ -481,22 +481,11 @@ footer {
   top: 108%;
   right: 5%;
   max-height: 0;
-  /* transition: max-height 0.3s; */
+  transition: max-height 0.3s;
 }
 
 /* custom class */
 .settings-menu-height {
-  position: absolute;
-  width: 90%;
-  max-width: 350px;
-  background-color: #fff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
-  border-radius: 4px;
-  overflow: hidden;
-  top: 108%;
-  right: 5%;
-  /* max-height: 0; */
-  /* transition: max-height 0.3s; */
   max-height: 450px;
 }
 
