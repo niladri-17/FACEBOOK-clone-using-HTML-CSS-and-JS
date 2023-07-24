@@ -16,8 +16,9 @@ nav {
 }
 
 .logo {
-  width: 100px;
+  width: 110px;
   margin-right: 20px;
+  font-size: 30px;
 }
 
 .nav-left ul li img {
