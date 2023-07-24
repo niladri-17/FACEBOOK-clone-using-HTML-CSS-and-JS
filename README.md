@@ -1,2 +1,2 @@
 # Linkbook - Facebook Frontend Clone 
-Facebook front-end clone using HTML, CSS & JS
+Facebook responsive front-end clone using HTML, CSS & JS
