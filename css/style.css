@@ -89,7 +89,7 @@ nav a {
   content: "";
   width: 7px;
   height: 7px;
-  border: 2px solid;
+  border: 2px solid black;
   border-radius: 50%;
   background-color: #41db51;
   position: absolute;
