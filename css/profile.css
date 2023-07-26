@@ -18,6 +18,7 @@
   justify-content: space-between;
 }
 
+/* -------- profile-detail-left -------- */
 .pd-row {
   display: flex;
   align-items: flex-start;
@@ -43,6 +44,8 @@
   border-radius: 50%;
   margin-top: 12px;
 }
+
+/* -------- profile-detail-right -------- */
 
 .profile-detail-right button {
   background-color: #1876f2;
@@ -82,6 +85,8 @@
 .profile-detail-right a img {
   width: 30px;
 }
+
+/* ------------ profile-info ------------ */
 
 .profile-info {
   display: flex;

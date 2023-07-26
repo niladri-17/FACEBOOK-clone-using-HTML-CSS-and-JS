@@ -27,6 +27,7 @@ body {
   transition: background 0.3s;
 }
 
+/* ------------ nav-bar ------------ */
 nav {
   display: flex;
   align-items: center;
